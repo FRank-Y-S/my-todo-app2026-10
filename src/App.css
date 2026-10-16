@@ -1,0 +1,34 @@
+body {
+  width: 400px;
+  min-height: 400px;
+  margin: 0 auto;
+}
+
+.item-list {
+  display: flex;
+}
+
+.incomplete-area {
+  min-height: 200px;
+  margin: 0 auto;
+  background: pink;
+  border-radius: 16px;
+}
+
+.complete-area {
+  min-height: 200px;
+  margin: 0 auto;
+  background: lightgray;
+  border-radius: 16px;
+
+}
+
+.list-title {
+  text-align: center;
+  font-weight: bold;
+}
+
+.title {
+  margin: 0;
+}
+
